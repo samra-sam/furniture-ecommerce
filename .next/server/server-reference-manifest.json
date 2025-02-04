@@ -1,0 +1,48 @@
+{
+  "node": {
+    "16cd546eef880fca319f8ee0335f4994a45a1263": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/shop/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/blog/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/contact/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/shop/page": "action-browser",
+        "app/blog/page": "action-browser",
+        "app/contact/page": "action-browser"
+      }
+    },
+    "3b549d8aa7fb3e15ab2b3873e67babcf055d686b": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/shop/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/blog/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/contact/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/shop/page": "action-browser",
+        "app/blog/page": "action-browser",
+        "app/contact/page": "action-browser"
+      }
+    },
+    "67403b643ee0d2b7538b436e994f6fad2a7dbbaf": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/shop/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/blog/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!",
+        "app/contact/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Ckeyless-actions.js%22%2C%5B%22syncKeylessConfigAction%22%2C%22createOrReadKeylessAction%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5Chp%5C%5CDesktop%5C%5CHackathon-03-main%5C%5Cfurniture-ecommerce%5C%5Cnode_modules%5C%5C%40clerk%5C%5Cnextjs%5C%5Cdist%5C%5Cesm%5C%5Capp-router%5C%5Cserver-actions.js%22%2C%5B%22invalidateCacheAction%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser",
+        "app/shop/page": "action-browser",
+        "app/blog/page": "action-browser",
+        "app/contact/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "8jlT/asCjFDmqvyjtOsF+z785rDoXVGgbVOiLpVW3f8="
+}
